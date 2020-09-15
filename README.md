@@ -40,3 +40,4 @@ WINGS Learning Portal is a online learning platform which provides leadership an
 * [Udemy](https://www.udemy.com/)
 * [LinkedIn Learning](https://www.linkedin.com/learning/me)
 * [App Academy](https://open.appacademy.io/)
+* [Deloitte University](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/deloitteuniversity-leadership-center.html)
