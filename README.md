@@ -1,4 +1,4 @@
-# WINGS-Learning-Portal
+# WINGS-University
 ## Background
 WINGS Learning Portal is a online learning platform which provides leadership and business curriculums/ to help people accelerate their growth and achive their goals.
 
