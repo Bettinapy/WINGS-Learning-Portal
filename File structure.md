@@ -59,3 +59,11 @@
       * Headshot
       * Title
       * LinkedIn URL
+
+## Books
+* Category e.g. Personal Branding
+  * Book cover image
+  * Amazon link
+  * Reviews (from mentee) (can link with Blog section)
+    * Review
+    * Reviewer
