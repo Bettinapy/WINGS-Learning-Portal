@@ -1,9 +1,9 @@
 # File structure
 
 ## Workshops
-* Workshop category e.g. Personal Branding
+* Workshop category `e.g. Personal Branding`
   * Image
-    * Posters for promotion (from LinkedIn / Newsletter)
+    * Posters for promotion (from LinkedIn / Newsletter) `e.g. Workshop Name-File Name-MM-YY Interview Skills-Screenshot 1-09-20`
     * Event photos / screenshots
   * Detail
     * Goals and Objectvies
