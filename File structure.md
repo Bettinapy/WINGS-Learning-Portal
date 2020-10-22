@@ -72,7 +72,7 @@
   * Book name `e.g. Culture Code`
     * Image 
       * Cover `e.g. culture code-cover`
-      * Event `e.g. culture code-discussion-10/20
+      * Event `e.g. culture code-discussion-10/20`
     * Detail
       * Amazon link
       * Reviews (from mentee) (can link with Blog section)
